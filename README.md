@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Curtis
 - 👀 I’m interested in Code and game Dev, and programing
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python c# HTML, CSS, JS
 - 💞️ I’m looking to collaborate on nothing rn
 - 📫 How to reach me:
 email:
